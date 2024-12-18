@@ -4,9 +4,6 @@ namespace App\Http\Controllers;
 use Google\Client;
 use Google\Service\Sheets;
 use Firebase\JWT\JWT;
-
-
-
 use Illuminate\Http\Request;
 
 class GoogleSheetController extends Controller
